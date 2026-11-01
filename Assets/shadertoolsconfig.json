@@ -1,0 +1,34 @@
+{
+  "root": true,
+  "hlsl.preprocessorDefinitions": [],
+  "hlsl.additionalIncludeDirectories": [
+    ".",
+    "/media/projects/TIXL/TheLamp/Assets",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Mediapipe/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Spout/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Skills/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Video/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Unsplash/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Examples/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Io/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Lib/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/Ndi/Assets/shaders/",
+    "/media/projects/apps/tixl-4.4.0.3/Operators/TypeOperators/Assets/shaders/",
+    "/media/projects/TIXL/Renaissance/Assets/shaders/",
+    "/media/projects/TIXL/TheLamp/Assets/shaders/"
+  ],
+  "hlsl.virtualDirectoryMappings": {
+    "/domha91.TheLamp": "/media/projects/TIXL/TheLamp/Assets/shaders/",
+    "/Mediapipe": "/media/projects/apps/tixl-4.4.0.3/Operators/Mediapipe/Assets/shaders/",
+    "/t3.spout": "/media/projects/apps/tixl-4.4.0.3/Operators/Spout/Assets/shaders/",
+    "/Skills": "/media/projects/apps/tixl-4.4.0.3/Operators/Skills/Assets/shaders/",
+    "/Video": "/media/projects/apps/tixl-4.4.0.3/Operators/Video/Assets/shaders/",
+    "/t3.unsplash": "/media/projects/apps/tixl-4.4.0.3/Operators/Unsplash/Assets/shaders/",
+    "/Examples": "/media/projects/apps/tixl-4.4.0.3/Operators/Examples/Assets/shaders/",
+    "/Io": "/media/projects/apps/tixl-4.4.0.3/Operators/Io/Assets/shaders/",
+    "/Lib": "/media/projects/apps/tixl-4.4.0.3/Operators/Lib/Assets/shaders/",
+    "/t3.ndi": "/media/projects/apps/tixl-4.4.0.3/Operators/Ndi/Assets/shaders/",
+    "/Types": "/media/projects/apps/tixl-4.4.0.3/Operators/TypeOperators/Assets/shaders/",
+    "/domha91.Renaissance": "/media/projects/TIXL/Renaissance/Assets/shaders/"
+  }
+}
